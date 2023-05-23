@@ -1,7 +1,7 @@
 # <!-- Header content -->
 ![Box's Banner](https://raw.githubusercontent.com/NeatlyPackaged/Profile/main/NEWBGSideLogo.png "NeatlyPackagedLogo")
 
-# Hi, I'm Luke Brown ![visitors](https://visitor-badge.glitch.me/badge?page_id=NeatlyPackaged.NeatlyPackaged&left_color=gray&right_color=orange)
+# Hi, I'm Luke Brown
 
 <!-- Social Media Icons -->
 <a href="https://twitter.com/NeatlyPackagedG">
@@ -18,7 +18,7 @@
 
 
 ## &#128214; About Me
-I am a 19-year-old Game Design and Programmer. My most used programming language is C#, but I am always looking to expand my skillsets. I am currently looking for a job in the game industry as it is a major wish in my life.
+I am a 20-year-old Game Design and Programmer. My most used programming language is C#, but I am always looking to expand my skillsets. I am currently looking for a job in the game industry as it is a major wish in my life.
 
 ## &#9881; Skills
 ### Languages
@@ -29,7 +29,12 @@ I am a 19-year-old Game Design and Programmer. My most used programming language
 
 
 ## &#128421; Current Projects
-Follow my Itch Page to see my work and YT channel for work I am working on currently
+Follow my Portfolio Page to see my work and what the current stage of the games are like :-
+
+https://sites.google.com/view/neatly-packaged/home
+
+Follow my Itch Page to see my work and YT channel for work I am working on currently :-
+
 https://neatlypackaged.itch.io/
 
 ## &#127919; Current Goals
