@@ -31,7 +31,7 @@ I am a 21-year-old Game Design and Programmer. I am a Bachelors Graduate at Staf
 ## &#128421; Current Projects
 Follow my Portfolio Page to see my work and what the current stage of the games I am working on is like:-
 
-My Portfolio Site(https://sites.google.com/view/neatly-packaged/home)
+My Portfolio Site - https://sites.google.com/view/neatly-packaged/home
 
 - Unreal Interaction System
   - Working on a system in Unreal that allows free-grabbing objects among other mechanics
@@ -43,7 +43,7 @@ My Portfolio Site(https://sites.google.com/view/neatly-packaged/home)
 
 Follow my Itch Page to see my work and YT channel for work I am currently working on:-
 
-https://neatlypackaged.itch.io/
+My Itch Page - https://neatlypackaged.itch.io/
 
 ## &#127919; Current Goals
 - &#9999; Educational
