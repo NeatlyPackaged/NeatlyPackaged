@@ -18,7 +18,7 @@
 
 
 ## &#128214; About Me
-I am a 20-year-old Game Design and Programmer. My most used programming language is C#, but I am always looking to expand my skillsets. I am currently looking for a job in the game industry as it is a major wish in my life.
+I am a 21-year-old Game Design and Programmer. I am a Bachelors Graduate at Staffordshire University. I specialise in Technical Design and I primarily work in Unreal & Unity. I aspire to join the industry to showcase my skills and ideas for games.
 
 ## &#9881; Skills
 ### Languages
@@ -29,11 +29,19 @@ I am a 20-year-old Game Design and Programmer. My most used programming language
 
 
 ## &#128421; Current Projects
-Follow my Portfolio Page to see my work and what the current stage of the games are like :-
+Follow my Portfolio Page to see my work and what the current stage of the games I am working on is like:-
 
 https://sites.google.com/view/neatly-packaged/home
 
-Follow my Itch Page to see my work and YT channel for work I am working on currently :-
+- Unreal Interaction System
+  - Working on a system in Unreal that allows free-grabbing objects among other mechanics
+  - You can pick up, Rotate, Scale, and Zoom any object that has a specific collision type name.
+  - WIP - Currently working on a throw system, a details menu that will display the held items' name and description, A weight system for each object to contain for more drag/difficulty in carrying, and more.
+ 
+- Unity Level Design For an Open Sandbox Platformer.
+  - A robot ran the world in a Norwegian aesthetic landscape filled with forestry and small log cabin sites.
+
+Follow my Itch Page to see my work and YT channel for work I am currently working on:-
 
 https://neatlypackaged.itch.io/
 
